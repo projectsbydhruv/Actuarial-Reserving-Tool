@@ -1,2 +1,2 @@
-# Actuarial-Reserving-Tool
-Automated IBNR Reserving tool for Health Insurance claims built on Excel &amp; VBA 
+To access the tool, use the "Reserving Tool_Health.zip" above this.  
+
